@@ -18,9 +18,9 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: (B) 
 
-<i>Write your explanation here</i>
+<i>create a variable "greeting". but its not defined its empty. so its returned "ReferenceError".</i>
 
 </p>
 </details>
@@ -43,9 +43,9 @@ sum(1, "2");
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C
 
-<i>Write your explanation here</i>
+<i>here sum function have 2 parameters (a and b). given that 2 types of value for a(number) and for b(string). So when the function work that means addition its concate 2 values.</i>
 
 </p>
 </details>
@@ -94,9 +94,9 @@ console.log(sayHi());
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: B
 
-<i>Write your explanation here</i>
+<i>there is a function sayHi and its a parameter is "name". then its return name. but its retunr undefined because when its call the parameter value not given. so its empthy. so its return undefined</i>
 
 </p>
 </details>
@@ -122,9 +122,10 @@ console.log(count);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer:B
 
-<i>Write your explanation here</i>
+<i>here, forEach loop iterats the array(nums) 1st value. Then it checks number is true or false then add 1 with value one by one.
+but the 1st value is 0 . In js this is falsy value . So count not work. then 2nd value is 1. its truthy vaalue. so now count add +1. and the result is 2</i>
 
 </p>
 </details>
